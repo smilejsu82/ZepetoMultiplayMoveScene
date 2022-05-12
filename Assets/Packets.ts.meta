@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 11186009b6ac26949a9fb73719d9bfee
+importerOverride: ZEPETO.Script.Compiler:ZEPETO.Script:TypescriptAssetImporter
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: -1123457745, guid: 54cf806323ffe4418a4ce4cc63fe6b9d, type: 3}
+  isAssemblyDeclarations: 0
+  assembly: 
+  generateAllTypes: 1
+  types: []
+  generateWrapper: 0
+  overrideWrapperTypes: 0
+  wrapperTypes: []
+  WrapperFilters: []
+  wrapperOutputDirectory: Generated
+  compiledResult: '{"source":"\"use strict\";\r\nObject.defineProperty(exports, \"__esModule\",
+    { value: true });\r\nexports.change_scene = void 0;\r\nclass change_scene {\r\n   
+    constructor(sessionId) {\r\n        this.sessionId = sessionId;\r\n    }\r\n}\r\nexports.change_scene
+    = change_scene;\r\n//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiUGFja2V0cy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIlBhY2tldHMudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7O0FBRUEsTUFBYyxZQUFZO0lBS3RCLFlBQVksU0FBaUI7UUFDekIsSUFBSSxDQUFDLFNBQVMsR0FBRyxTQUFTLENBQUM7SUFDL0IsQ0FBQztDQUNKO0FBUkQsb0NBUUMifQ==","assetPath":"Assets/Packets.ts","manifest":{"properties":[],"name":"change_scene","description":""},"isCompiled":true}'
+  typescriptHash: 3652befe9a3b3148517d23c8e6a60c02
